@@ -1,6 +1,4 @@
-# <ここにアプリ名を入力>
-
-ZI-SUI
+# <ZI-SUI>
 
 ## サイト概要
 
@@ -24,9 +22,9 @@ ZI-SUI
 
 ## 設計書
 
-ER 図：https://app.diagrams.net/#G1G5B6cVen6qECpLmIJ_l8VEdU-YRy6smK
-データベース設計：https://docs.google.com/spreadsheets/d/1N_JkwWnF5YDxod8P34zqDGhxisLmblxBslIIkOJjol4/edit#gid=1079040381
-アプリケーション設計：https://docs.google.com/spreadsheets/d/1PW4yXIwOMaxH_bBg9Sin-mFM3HVEUJ9F_tK7SsuDyKQ/edit#gid=0
+ER 図：https://app.diagrams.net/#G1G5B6cVen6qECpLmIJ_l8VEdU-YRy6smK  
+データベース設計：https://docs.google.com/spreadsheets/d/1N_JkwWnF5YDxod8P34zqDGhxisLmblxBslIIkOJjol4/edit#gid=1079040381  
+アプリケーション設計：https://docs.google.com/spreadsheets/d/1PW4yXIwOMaxH_bBg9Sin-mFM3HVEUJ9F_tK7SsuDyKQ/edit#gid=0  
 
 ### 機能一覧
 
